@@ -11,7 +11,7 @@
 
 ---
 
-## 📱 Description
+##  Description
 
 FamiliaBudget est une application mobile Flutter permettant à une famille de gérer ses finances de manière collaborative. Elle offre un suivi des dépenses, une analyse budgétaire avancée et des recommandations intelligentes basées sur le Machine Learning.
 
@@ -19,18 +19,18 @@ Projet de fin d'année — Génie Logiciel × Data Science, ESSAT Gabès.
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- 🔐 **Authentification** — Inscription, connexion, gestion des rôles (JWT)
-- 👥 **Multi-utilisateurs** — Admin, Utilisateur, Co-utilisateur
-- 💳 **Gestion des dépenses** — Catégorisation et suivi en temps réel
-- 📊 **Analyse financière** — Graphiques et tableaux de bord interactifs
-- 🤖 **Intelligence artificielle** — Prévisions budgétaires & recommandations ML
-- 🔔 **Notifications** — Alertes de dépassement de budget
+-  **Authentification** — Inscription, connexion, gestion des rôles (JWT)
+-  **Multi-utilisateurs** — Admin, Utilisateur, Co-utilisateur
+-  **Gestion des dépenses** — Catégorisation et suivi en temps réel
+-  **Analyse financière** — Graphiques et tableaux de bord interactifs
+-  **Intelligence artificielle** — Prévisions budgétaires & recommandations ML
+-  **Notifications** — Alertes de dépassement de budget
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 | Couche | Technologie |
 |--------|------------|
@@ -43,7 +43,7 @@ Projet de fin d'année — Génie Logiciel × Data Science, ESSAT Gabès.
 
 ---
 
-## 🏗️ Architecture — Sprints SCRUM
+##  Architecture — Sprints SCRUM
 
 ```
 Sprint 1 — Gestion des comptes & authentification
@@ -54,11 +54,11 @@ Sprint 4 — Intelligence ML & recommandations
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/hayfabouali11-sudo/FamiliaBudget.git
+git clone https://github.com/HayfaBouali/FamiliaBudget.git
 cd FamiliaBudget
 
 # Lancer le frontend Flutter
@@ -73,13 +73,13 @@ uvicorn main:app --reload
 
 ---
 
-## 👩‍💻 Auteure
+##  Auteure
 
 **Haifa Bouali** — Étudiante en Génie Logiciel, orientée Data Science  
 ESSAT Gabès, Tunisie
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Ce projet est sous licence [MIT](LICENSE).
